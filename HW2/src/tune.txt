@@ -1,0 +1,10 @@
+%%,+,-
+##,Gender,M,F
+##,Blood Type,AB,A,B,O
+##,Eye Color,Green,Blue,Brown
++,F,B,Blue
+-,M,O,Brown
++,F,B,Brown
+-,M,B,Blue
++,M,O,Blue
+-,F,B,Brown

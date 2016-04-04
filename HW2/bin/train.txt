@@ -1,0 +1,17 @@
+%%,yes,no
+##,patrons, none, some, full
+##,hungry, no, yes
+##,type, French, Italian, Thai, Burger
+##,Fri/Sat, no, yes
+yes, some, yes, French, no
+no, full, yes, Thai, no
+yes, some, no, Burger, no
+yes, full, yes, Thai, yes
+no, full, no, French, yes
+yes, some, yes, Italian, no
+no, none, no, Burger, no
+yes, some, yes, Thai, no
+no, full, no, Burger, yes
+no, full, yes, Italian, yes
+no, none, no, Thai, no
+yes, full, yes, Burger, yes
